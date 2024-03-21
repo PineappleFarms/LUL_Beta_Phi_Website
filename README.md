@@ -1,1 +1,1 @@
-# LUL_Beta_Phi_Website
+# LUL Beta Phi Website
