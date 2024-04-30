@@ -1,7 +1,7 @@
 # ITIS 3135 Project Design Document
 
-## Website for the Beta Phi Chapter of La Unidad Latina Lambda Upsilon Lambda Fraternity Inc.
-*** Last Updated 4/30/2024***
+***Website for the Beta Phi Chapter of La Unidad Latina Lambda Upsilon Lambda Fraternity Inc.***
+***Last Updated 4/30/2024***
 
 ## Project Overview:
 > Create a website for the Beta Phi Chapter of La Unidad Latina Lambda
@@ -12,12 +12,12 @@
 > stakeholders.
 
 ## Site Map:
-> Here is the sitemap for my application using [gloomaps](https://www.gloomaps.com/). Inspired by [LUL at Stevens](https://www.lulatstevens.org/)
+> Here is the sitemap for my application using [gloomaps](https://www.gloomaps.com/). Inspired by [LUL at Stevens](https://www.lulatstevens.org/).
 > All pages will be linked by a navigation bar in the header of every page.
 
 ![](media/image1.png)
 
-## Page Design \[[Home Page]{.underline}\]:
+## Page Design **[Home Page](.underline)**:
 > Here is the **home** page listed in my site map, provided *the
 > following notes* to fulfill the requirements:
 >
