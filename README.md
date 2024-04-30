@@ -1,4 +1,4 @@
-#ITIS 3135 Project Design Document
+# ITIS 3135 Project Design Document
 
 > **Website for the Beta Phi**\
 > **Chapter of La Unidad Latina Lambda Upsilon Lambda**\
