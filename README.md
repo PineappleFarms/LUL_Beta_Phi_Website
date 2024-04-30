@@ -8,7 +8,7 @@
 > ● Members of the fraternity\
 > ● Members of other geek organizations\
 > ● Students interested in joining the organization\
-> ● University members curious about the organization among other stakeholders.
+> ● University members curious about the organization among other stakeholders
 
 ## Site Map:
 > Here is the sitemap for my application using [gloomaps](https://www.gloomaps.com/). Inspired by [LUL at Stevens](https://www.lulatstevens.org/).\
