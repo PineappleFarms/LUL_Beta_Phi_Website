@@ -26,9 +26,9 @@
 ### Wireframe illustrating the structure and layout of content of the page:
 ![](media/image2.png)
 > ● Dynamic functionality actions will happen in the page such as:\
-> ● User can navigate to other pages using buttons in the header.
-> ● Just photos to look at with text headers.
-> ● Bottom photos linked to instagram page.
+> ● User can navigate to other pages using buttons in the header.\
+> ● Just photos to look at with text headers.\
+> ● Bottom photos linked to instagram page.\
 > ● User can navigate to social media using buttons in the footer.
 
 
