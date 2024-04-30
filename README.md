@@ -5,7 +5,10 @@
 
 ## Project Overview:
 > Create a website for the Beta Phi Chapter of La Unidad Latina Lambda Upsilon Lambda Fraternity Inc. Intended users of the website will include:\
-> Members of the fraternity, Members of other geek organizations, Students interested in joining the organization, and University members curious about the organization among other stakeholders.\
+> ● Members of the fraternity
+> ● Members of other geek organizations
+> ● Students interested in joining the organization
+> ● University members curious about the organization among other stakeholders.
 
 ## Site Map:
 > Here is the sitemap for my application using [gloomaps](https://www.gloomaps.com/). Inspired by [LUL at Stevens](https://www.lulatstevens.org/).\
