@@ -3,3 +3,64 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    background-color: #F0AC00;
+}
+
+/* Header */
+#logo {
+    width: 200px;
+    float: left;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+nav li a {
+    color:#663819;
+    text-decoration: none;
+    padding:20px;
+}
+
+#push {
+    margin-left: auto;
+}
+
+#home {
+    width: 20px;
+    height: 20px;
+    fill:none;
+}
+
+/* TODO: Add active class to the navigation links */
+li a:hover {
+    color: #ffffff;
+}
+
+
+/* Footer */
+img#instagram, img#twitter, img#email {
+    width: 35px;
+}
+
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+}
