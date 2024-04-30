@@ -21,4 +21,14 @@
 >
 > ● The home page\
 > ● This will be the landing page for the website to introduce the user to the organization.\
-> ● The user will need to be able to understand what the website is about, the administrator should be able to change the images on this page to maintain the currency for the organization.
+> ● The user will need to be able to understand what the website is about, the administrator should be able to change the images on this page to maintain the currency for the organization.\
+
+### Wireframe illustrating the structure and layout of content of the page:
+![](media/image2.png)
+> ● Dynamic functionality actions will happen in the page such as:\
+> ● User can navigate to other pages using buttons in the header.
+> ● Just photos to look at with text headers.
+> ● Bottom photos linked to instagram page.
+> ● User can navigate to social media using buttons in the footer.
+
+
