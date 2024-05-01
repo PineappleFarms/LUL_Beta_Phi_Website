@@ -18,6 +18,11 @@ ul {
 }
 
 /* Header */
+header {
+    position: sticky;
+    top: 0;
+}
+
 #logo {
     width: 200px;
     margin-left: 5%;
@@ -68,18 +73,54 @@ blockquote {
 }
 
 /* Footer */
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 40px 40px;
+    gap: 5%;
+}
+
+footer .socials {
+    background-color: #F0AC00;
+}
+
 img#instagram,
-img#twitter,
+img#linkedin,
 img#email {
     width: 35px;
 }
 
-footer ul {
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
+footer ol{
+    background-color: #65381B;
+    text-align: center;
     align-items: center;
-    padding: 40px;
+    padding: 10px 15% 5px;
+    position: relative;
+    bottom: 0;
+}
+
+img#goldLogo {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+footer p {
+    padding: 5px;
+    color: #ffffff;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: small;
+}
+
+footer p a{
+    list-style-type: none;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+    color: #ffffff;
 }
 
 
