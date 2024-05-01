@@ -25,7 +25,7 @@ class SpecialFooter extends HTMLElement {
                 <img src="images/x-twitter.svg" alt="twitter" id="twitter">
                 <img src="images/email.svg" alt="email" id ="email">
             </ul>
-            <p>Diego L &copy; 2024</p>
+            <p>Created by Diego Lopez &copy; 2024</p>
         </footer>
     `;
     }
