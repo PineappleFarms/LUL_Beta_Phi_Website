@@ -5,7 +5,7 @@ class SpecialHeader extends HTMLElement {
             <nav>
             <ul>
                 <img src="images/LUL_Logo_Horizontal_Brown.png" alt="logo" id="logo">
-                <li id="push"><a href="home.html">Home</a></li>
+                <li id="push"><a href="index.html">Home</a></li>
                 <li><a href="about.html">About</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="leadership.html">Leadership</a></li>

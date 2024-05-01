@@ -64,3 +64,23 @@ footer ul {
     align-items: center;
     padding: 40px;
 }
+
+/* Lines */
+.line {
+    border-bottom: 3px solid #F0AC00;
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    align-items: center;
+}
+
+/* text */
+p {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+}
