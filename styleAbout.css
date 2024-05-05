@@ -1,0 +1,21 @@
+#factsdiv {
+    display: flex;
+    flex-direction: row;
+}
+
+#officialCrest {
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+#officialSymbol {
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+}
+
+#quickFacts {
+    display: flex;
+    flex-direction: column;
+}

@@ -21,3 +21,12 @@ if (btnContainer) {
     // Handle the case where the nav ul element is not found
     console.error("nav ul element not found");
 }
+
+var btn = document.querySelector('button');
+
+if (btn) {
+    btn.addEventListener("click", function () {
+        // Toggle the 'active' class on the button
+        btn.classList.toggle("active");
+    }
+}

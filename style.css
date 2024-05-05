@@ -179,12 +179,19 @@ footer p a{
 }
 
 /* text */
-p {
+.text {
     padding: 20px;
     text-align: center;
+}
+
+p {
+    padding: 20px 20%;
+    text-align: center;
+    color: #663819;
 }
 
 h1 {
     padding: 20px;
     text-align: center;
+    color: #663819;
 }
