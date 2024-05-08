@@ -1,21 +1,29 @@
-#factsdiv {
-    display: flex;
-    flex-direction: row;
+[about] {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px;
+    text-align: center;
+    justify-items: center;
+    margin-bottom: 15px;
 }
 
-#officialCrest {
-    width: 100px;
-    margin: 0 auto;
-    display: block;
+[about] img{
+    max-width: 100%;
+    max-height: 256px;
+    height: auto;
+    display: grid;
 }
 
-#officialSymbol {
-    width: 100px;
-    margin: 0 auto;
-    display: block;
+[about] img#officialCrest {
+    grid-column-start: 1;
 }
 
-#quickFacts {
-    display: flex;
-    flex-direction: column;
+[about] div#quickFacts {
+    grid-column-start: 2;
+    font-size: large;
 }
+
+[about] img#officialSymbol {
+    grid-column-start: 3;
+}
+

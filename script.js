@@ -29,4 +29,4 @@ if (btn) {
         // Toggle the 'active' class on the button
         btn.classList.toggle("active");
     }
-}
+)};
